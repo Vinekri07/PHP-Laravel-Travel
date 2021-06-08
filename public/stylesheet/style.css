@@ -1,0 +1,84 @@
+.logo{
+    text-align: center;
+}
+
+.home_main{
+    background-image: url("../images/thumb-01.jpg");
+    height: 400px;
+    width: 100%;
+}
+.home_main_content{
+    padding-top: 150px;
+    text-align: center;
+}
+.home_main_2{
+    text-align: center;
+    padding-top: 80px;
+    font-size: 20px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.home_main_img{
+    background-image: url("../images/thumb-02.jpg");
+    position: static;
+}
+.home_main_content_2{
+    height: 400px;
+}
+.home_main_content_2 p{
+    text-align: justify;
+    
+}
+.home_main_heading{
+    text-align: center;
+    text-decoration: underline;
+    padding-top: 30px;
+}
+
+.home_content{
+    margin-top: 100px;
+    background-image: url("../images/thumb-07.jpg");
+}
+
+.search{
+    background-color: black;
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+.d-flex{
+    box-align: center;
+    width: 80%;
+    padding-left: 250px;
+
+}
+
+.about_heading{
+    padding-top: 100px;
+}
+.about_heading p{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    padding-right: 50px;
+    padding-left: 100px;
+}
+.about_img{
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+.about_main{
+    background-color: gainsboro;
+    background-repeat: no-repeat;
+}
+
+.about_carousel{
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+
+.blog_main{
+    background-color: gainsboro;
+    height: 400px;
+    padding-top: 50px;
+    padding-bottom: 100px;
+}
+.blog_main_heading{
+    padding-top: 50px;
+}
